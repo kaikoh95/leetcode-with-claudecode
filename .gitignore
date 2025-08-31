@@ -40,8 +40,11 @@ yarn-error.log*
 *.tsbuildinfo
 next-env.d.ts
 
-# CC generated files
+# CC files
+BRIEF.md
 TASK.md
 PLAN.md
 SUMMARY.md
 src/index.ts
+
+dist/
