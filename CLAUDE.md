@@ -4,9 +4,6 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Development Commands
 
-- **Build**: `npm run build` - Compiles TypeScript to JavaScript in the `dist/` directory
-- **Development**: `npm run dev` - Runs the current implementation using ts-node
-- **Production**: `npm start` - Runs the compiled JavaScript from dist/
 - **Test**: `npm run test` - Currently aliases to `npm run dev`
 
 ## LeetCode Workflow
